@@ -369,13 +369,15 @@ a:focus {
 #footerwrap i {
 	font-size: 30px;
 	color: {{ site.colors.footer_content }};
-	padding-right: 25px;
+	padding-right: 5px;
 }
 
 #footerwrap i:hover {
 	color: {{ site.colors.primary }}
 }
-
+p#powered-by {
+	font-size: 30px;
+}
 /*	################################################################
 	PAGE CONFIGURATIONS
 ################################################################# */
