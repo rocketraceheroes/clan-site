@@ -8,9 +8,7 @@ categories:
 img: member_11.png
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- member_11.png
 client: Wonder Corp.
 website: http://blacktie.co
 ---

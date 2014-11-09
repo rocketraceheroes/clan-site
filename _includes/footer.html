@@ -2,17 +2,15 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
-                <h4>About</h4>
+                <h4>Info</h4>
                 <div class="hline-w"></div>
                 <p>{{ site.about }}</p>
             </div>
             <div class="col-lg-4">
-                <h4>Social Links</h4>
+                <h4>Powered By</h4>
                 <div class="hline-w"></div>
                 <p>
-                    {% for network in site.social %}
-                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
-                    {% endfor %}
+                    <a href="#" class="btn-social btn-outline"><i class="fi-social-xbox"></i> Xbox IO / Xbox DVR</a>
                 </p>
             </div>
             <div class="col-lg-4">

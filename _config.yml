@@ -41,9 +41,9 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
+    - Xbox Live
+    - Facebook
+    - Google Hangouts
 email: hello@solidtheme.com
 tel: +34 8493-4893
 
@@ -101,7 +101,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+info: "Commissioned by Tufo. Built and maintained by NightSurgeX2. Made epic by all members."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
