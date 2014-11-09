@@ -1,6 +1,6 @@
 ---
 layout: member
-title:  "YOUR PROJECT NAME"
+title:  "POCKET DAVE"
 date:   2014-04-18 16:54:46
 author: Marcel Newman
 categories:

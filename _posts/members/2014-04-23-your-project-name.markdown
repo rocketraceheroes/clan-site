@@ -1,6 +1,6 @@
 ---
 layout: member
-title:  "YOUR PROJECT NAME"
+title:  "FURRY CHIEF"
 date:   2014-04-23 16:54:46
 author: Marcel Newman
 categories:

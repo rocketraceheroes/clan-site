@@ -1,6 +1,6 @@
 ---
 layout: member
-title:  "YOUR PROJECT NAME"
+title:  "QUEUEBIT"
 date:   2014-04-22 16:54:46
 author: Marcel Newman
 categories:
