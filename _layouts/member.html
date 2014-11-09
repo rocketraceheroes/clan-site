@@ -10,14 +10,12 @@ layout: default
         {% include carousel.html %}
 
         <div class="col-lg-4 col-lg-offset-1">
-            <div class="spacing"></div>
             <h4>Bio</h4>
             <div class="hline"></div>
             <p><b>Member Since:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Quote:</b> {{ page.categories }}</p>
+            <p><b>Quote:</b> N/A</p>
         </div>
-        <div class="col-lg-5 col-lg-offset-1">
-            <div class="spacing"></div>
+        <div class="col-lg-4 col-lg-offset-1">
 
             {{ content }}
 
@@ -26,4 +24,11 @@ layout: default
 </div><!--/container -->
 
 <!-- This place will be the videos -->
-{% include portfolio.html title="XBOX DVR CONTENT" limit=5 %}
+<div id="portfoliowrap">
+    <div class="portfolio-centered">
+        <h3>XBOX DVR CONTENT</h3>
+        <div class="recentitems portfolio">
+            Coming Soon
+        </div>
+    </div>
+</div>
