@@ -288,7 +288,7 @@ a:focus {
 }
 
 /* Testimonials Wrap */
-#twrapback, #trwapback2 {
+#twrapback {
     background-color: {{ site.colors.primary }};
     background-color:rgba({{ site.colors.primary_rgb }},.8);
     position: absolute;
@@ -302,7 +302,7 @@ a:focus {
   background: url(../img/halo.jpg) no-repeat center top;
 }
 
-#twrap2 {
+#twrap {
   background: url(../img/t-back2.jpg) no-repeat center top;
 }
 
