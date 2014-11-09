@@ -1,11 +1,11 @@
 ---
 layout: member
-title:  "POCKET DAVE"
-date:   2014-04-18 16:54:46
+title:  "VERMILLION33"
+date:   2014-04-15 16:54:46
 author: Marcel Newman
 categories:
 - members
-img: member7.png
+img: member12.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg

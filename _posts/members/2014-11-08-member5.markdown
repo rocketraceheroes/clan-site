@@ -1,11 +1,11 @@
 ---
 layout: member
-title:  "VERMILLION33"
+title:  "FURRY CHIEF"
 date:   2014-04-20 16:54:46
 author: Marcel Newman
 categories:
 - members
-img: portfolio_05.jpg
+img: member5.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
