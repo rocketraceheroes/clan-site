@@ -1,11 +1,12 @@
 ---
 layout: member
-title:  "CARDAMOM PODS"
-date:   2014-04-25 16:54:46
+title:  "TH3WH1T3R4BB1T"
+date:   2014-04-21 16:54:46
 author: Marcel Newman
 categories:
 - members
-img: portfolio_01.jpg
+img: portfolio_04.jpg
+thumb: thumb02.jpg
 carousel:
 - single01.jpg
 - single02.jpg

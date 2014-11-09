@@ -1,11 +1,11 @@
 ---
 layout: member
-title:  "FURRY CHIEF"
-date:   2014-04-23 16:54:46
+title:  "DARTH TELLY"
+date:   2014-04-15 16:54:46
 author: Marcel Newman
 categories:
 - members
-img: portfolio_02.jpg
+img: portfolio_11.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
