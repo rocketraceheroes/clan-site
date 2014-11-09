@@ -288,7 +288,7 @@ a:focus {
 }
 
 /* Testimonials Wrap */
-#twrapback {
+#twrapback, #trwapback2 {
     background-color: {{ site.colors.primary }};
     background-color:rgba({{ site.colors.primary_rgb }},.8);
     position: absolute;
@@ -298,10 +298,17 @@ a:focus {
     height: 100%;
 }
 
-#twrap {
-    background: url(../img/t-back2.jpg) no-repeat center top;
-    position: relative;
-    margin-top: 0px;
+#twrap2 {
+  background: url(../img/halo.jpg) no-repeat center top;
+}
+
+#twrap2 {
+  background: url(../img/t-back2.jpg) no-repeat center top;
+}
+
+#twrap, #twrap2 {
+  position: relative;
+  margin-top: 0px;
 	padding-top:60px;
 	text-align:center;
 	background-attachment: relative;
@@ -320,13 +327,13 @@ a:focus {
     background-size: cover;
 }
 
-#twrap i {
+#twrap i, #trwap2 i {
 	font-size: 50px;
 	color: white;
 	margin-bottom: 25px;
 }
 
-#twrap p {
+#twrap p, #trwap2 p {
 	color: white;
 	font-size: 15px;
 	line-height: 30px;
