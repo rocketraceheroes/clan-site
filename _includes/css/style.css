@@ -206,7 +206,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: {{ site.colors.primary }};
+  background: url(../img/halo.jpg) no-repeat center top;
 	min-height: 550px;
 	padding-top: 100px;
 	padding-bottom: 0px;
@@ -298,10 +298,6 @@ a:focus {
     height: 100%;
 }
 
-#twrap2 {
-  background: url(../img/halo.jpg) no-repeat center top;
-}
-
 #twrap {
   background: url(../img/t-back2.jpg) no-repeat center top;
 }
@@ -327,13 +323,13 @@ a:focus {
     background-size: cover;
 }
 
-#twrap i, #trwap2 i {
+#twrap i {
 	font-size: 50px;
 	color: white;
 	margin-bottom: 25px;
 }
 
-#twrap p, #trwap2 p {
+#twrap p {
 	color: white;
 	font-size: 15px;
 	line-height: 30px;
