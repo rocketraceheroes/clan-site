@@ -29,15 +29,17 @@ layout: default
     <div class="portfolio-centered">
         <h3>XBOX DVR CONTENT</h3>
         <div class="dvr">
-            <script>
+            <script type="text/javascript">
                 var gamertag = $('#member-gamertag').text();
                 var dvr_html = '';
-                $.get('https://agile-mesa-1935.herokuapp.com/xbox_dvr/videos', {gamertag: gamertag}, function(resp){
-                    resp.videos.each(function(vid){
-                        dvr_html += '<div><a href="'+vid.ClipUri+'"><img src="'+vid.Preview+'"/></a></div>'
+                setTimeout(function(){
+                    $.get('https://agile-mesa-1935.herokuapp.com/xbox_dvr/videos', {gamertag: gamertag}, function(resp){
+                        resp.videos.each(function(vid){
+                            dvr_html += '<div><a href="'+vid.ClipUri+'"><img src="'+vid.Preview+'"/></a></div>'
+                        });
+                        $('div.dvr').append(dvr_html);
                     });
-                    $('div.dvr').append(dvr_html);
-                });
+                }, 1000);
             </script>
         </div>
     </div>
