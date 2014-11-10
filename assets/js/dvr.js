@@ -8,7 +8,7 @@ $(function(){
           dvr_html += [
           	'<div class="col-xs-6 col-md-4">',
           	'  <div class="thumbnail">',
-          	'    <a data-toggle="modal" href="'+vid.ClipUri+'" data-target="#videoModal" title="Click to Watch">',
+          	'    <a href="#" data-uri="'+vid.ClipUri+'" class="vid-modal-trigger" title="Click to Watch">',
           	'      <img src="'+vid.Thumbnail+'" alt="...">',
           	'    </a>',
           	'    <div class="caption">',
@@ -18,9 +18,15 @@ $(function(){
           	'</div>'
           ].join("\n");
         });
-        dvr_html += '</div>'
+        dvr_html += '</div>';
         $('div.dvr').append(dvr_html);
 	    });
-		}, 1000);
+		}, 500);
+
+		$('a.vid-modal-trigger').on('click', function(e){
+			e.preventDefault();
+			$('#videoModal').find('div.modal-body').append('<video controls="" autoplay="" name="media"><source src="'+$(this).data('uri')+'" type="video/mp4"></video>');
+			$('#videoModal').modal();
+		});
 	}
 });
