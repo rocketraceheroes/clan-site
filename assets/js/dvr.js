@@ -23,7 +23,7 @@ $(function(){
 	    });
 		}, 500);
 
-		$('a.vid-modal-trigger').on('click', function(e){
+		$('div.dvr').on('click', 'a.vid-modal-trigger', function(e){
 			e.preventDefault();
 			$('#videoModal').find('div.modal-body').append('<video controls="" autoplay="" name="media"><source src="'+$(this).data('uri')+'" type="video/mp4"></video>');
 			$('#videoModal').modal();
