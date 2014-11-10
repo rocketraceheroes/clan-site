@@ -25,8 +25,8 @@ $(function(){
 
 		$('div.dvr').on('click', 'a.vid-modal-trigger', function(e){
 			e.preventDefault();
-			$('#videoModal').find('div.modal-body').append('<video controls="" autoplay="" name="media"><source src="'+$(this).data('uri')+'" type="video/mp4"></video>');
-			$('#videoModal').modal();
+			$('#videoModal').find('div.modal-body').html('<video controls="" autoplay="" name="media" style="width:100%;"><source src="'+$(this).data('uri')+'" type="video/mp4"></video>');
+			$('#videoModal').modal({keyboard: false});
 		});
 	}
 });
