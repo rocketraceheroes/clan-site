@@ -1,6 +1,6 @@
 $(function(){
-	$('#member-gamertag').load(function(){
-		var gamertag = $(this).text();
+	$(window).on('load', function(){
+		var gamertag = $('#member-gamertag').text();
 		if (gamertag.length){
 			setTimeout(function(){
 				var dvr_html = '<div class="row">';
