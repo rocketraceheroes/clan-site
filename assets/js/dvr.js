@@ -8,7 +8,7 @@ $(function(){
           dvr_html += [
           	'<div class="col-xs-6 col-md-4">',
           	'  <div class="thumbnail">',
-          	'    <a data-toggle="modal" href="'+vid.ClipUri+'" title="Click to Watch">',
+          	'    <a data-toggle="modal" href="'+vid.ClipUri+'" data-target="#videoModal" title="Click to Watch">',
           	'      <img src="'+vid.Thumbnail+'" alt="...">',
           	'    </a>',
           	'    <div class="caption">',
