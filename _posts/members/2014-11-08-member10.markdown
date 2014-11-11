@@ -7,8 +7,8 @@ categories:
 img: member_10.png
 carousel:
 - member_10.png
-favorite_games: Halo, Uncharted, Mass Effect, Call of Duty (Modern Warfare Series)
-favorite_stat: Top 1% in CoD: MW3 Search and Destroy. 10 year XBL Gold member.
+favorite_games: Halo, Uncharted, Mass Effect, Call of Duty \(Modern Warfare Series\)
+favorite_stat: Top 1\% in CoD MW3 Search and Destroy. 10 year XBL Gold member.
 ---
 ####Play Style
 Lone Wolf, Objective Oriented, Sharp Shooter, Call Outs
