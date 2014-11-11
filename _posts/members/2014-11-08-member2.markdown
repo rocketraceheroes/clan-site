@@ -7,7 +7,7 @@ categories:
 img: member2.png
 carousel:
 - member2.png
-play_style: \[Leeroy Jenkins\]\(https://www.youtube.com/watch?v=LkCNJRfSZBU\)
+play_style: `[Leeroy Jenkins](https://www.youtube.com/watch?v=LkCNJRfSZBU)`
 favorite_games: Braid, Portal, Small World, Halo
 favorite_stat: 12
 ---
