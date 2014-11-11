@@ -7,11 +7,12 @@ categories:
 img: member2.png
 carousel:
 - member2.png
-play_style: 
-favorite_games: 
-favorite_stat:
+play_style: [Leeroy Jenkins](https://www.youtube.com/watch?v=LkCNJRfSZBU)
+favorite_games: Braid, Portal, Small World, Halo
+favorite_stat: 12
 ---
 ####Quote
 "Never really got into video games b/c if I want to waste hours on an addictive, useless, isolating pastime, heroin was invented in like 1875" &mdash; [Ken Jennings](https://twitter.com/KenJennings/status/259025336958861312)
 
 ####About
+I played Halo, stopped playing Halo, played some more Halo, and might play some Halo in the future.
