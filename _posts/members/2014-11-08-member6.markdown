@@ -1,19 +1,20 @@
 ---
 layout: member
 title:  "TKE SUPER DAVE"
-date:   2014-04-19 16:54:46
-author: Marcel Newman
+date:   2004-04-19 16:54:46
 categories:
 - members
 img: member6.png
-thumb: thumb02.jpg
 carousel:
 - member6.png
-client: Wonder Corp.
-website: http://blacktie.co
+favorite_games: Halo 2 and 3
+favorite_stat: 1024+ Flag pokes in Halo and counting
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####Play Style
+Objective Specialist, Aggressive, Sniper, Slayer, Role Player
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+####Quote
+NO QUOTE YET
+
+####About
+I'm what I like to call a social gamer, I enjoy playing games with other individuals instead of myself. I've been playing with friends ever since my parents bought me an Atari 2600 in the early 1990s. I joined RRH shortly after it was formed by way of a former member that I knew from a now defunct gaming group and have been one of it's longest active members along with Furry Chief and Tufo.
