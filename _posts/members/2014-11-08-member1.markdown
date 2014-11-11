@@ -7,7 +7,7 @@ categories:
 img: member1.png
 carousel:
 - member1.png
-quote: "The universe is big; its vast and complicated and ridiculous, and sometimes, very rarely, impossible things just happen, and we call them miracles." &mdash; The Doctor
+quote: The universe is big; its vast and complicated and ridiculous, and sometimes, very rarely, impossible things just happen, and we call them miracles. &mdash; The Doctor
 play_style: Team vehicle specialist. Role player. Callouts. Assists. The greater good.
 favorite_games: Halo 2 and 3
 favorite_stat: Over 14,000 Wheelman medals in Halo 3 multiplayer.
