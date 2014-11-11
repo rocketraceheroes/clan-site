@@ -1,19 +1,20 @@
 ---
 layout: member
 title:  "POCKET DAVE"
-date:   2014-04-18 16:54:46
-author: Marcel Newman
+date:   2007-04-18 16:54:46
 categories:
 - members
 img: member7.png
-thumb: thumb02.jpg
 carousel:
 - member7.png
-client: Wonder Corp.
-website: http://blacktie.co
+favorite_games: Red Dead Redemption, The Last of Us, Mass Effect 2, Skyrim, Bioshock, Uncharted 2
+favorite_stat: Over 80K achievement score. 2.2 K/D in Titanfall. Killed every pigeon in GTA IV.
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####Play Style
+Strategist and objective focused player. I have a love for breaking down a game or scenario to find the optimal course of action for myself or my team.
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+####Quote
+"It had to be me. Someone else might have gotten it wrong." &mdash; Mordin, Mass Effect 3
+
+####About
+Husband, father, gamer. Rekindled my younger self's love for gaming a few years post-college after joining Rocket Race Heroes during the Halo 3 era, and now I love all things gaming. Artsy indie game, epic story-driven RPG, competitive shooter... whatever it is, give it to me now.
