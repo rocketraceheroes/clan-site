@@ -2,18 +2,19 @@
 layout: member
 title:  "NIGHTSURGEX2"
 date:   2014-04-14 16:54:46
-author: Marcel Newman
 categories:
 - members
 img: member_10.png
-thumb: thumb02.jpg
 carousel:
 - member_10.png
-client: Wonder Corp.
-website: http://blacktie.co
+favorite_games: Halo, Uncharted, Mass Effect, Call of Duty (Modern Warfare Series)
+favorite_stat: Top 1% in CoD: MW3 Search and Destroy. 10 year XBL Gold member.
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####Play Style
+Lone Wolf, Objective Oriented, Sharp Shooter, Call Outs
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+####Quote
+"Do not go gentle into that good night. Rage, rage against the dying of the light." &mdash; Dylan Thomas
+
+####About
+Originally a Nintendo gamer, I made the switch to Xbox with Halo and have never looked back. Participated in several gaming forums and clans over the years. As a newly married man with a busy career, I've dialed down the game time quite a bit. I joined Rocket Race Heroes in 2014 thanks to my co-workers Tufo and Queuebit. Oh and I'm the webmaster of this fine establishment that you are looking at right meow.
