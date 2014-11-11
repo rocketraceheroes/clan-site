@@ -2,11 +2,9 @@
 layout: member
 title:  "CARDAMOM PODS"
 date:   2011-04-22 16:54:46
-author: Marcel Newman
 categories:
 - members
 img: member3.png
-thumb: thumb02.jpg
 carousel:
 - member3.png
 favorite_games: Halo Reach, Bioshock Infinite

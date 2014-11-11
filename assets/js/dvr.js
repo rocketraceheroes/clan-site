@@ -3,7 +3,7 @@ $(function(){
 		var gamertag = $('#member-gamertag').text();
 		if (gamertag.length){
 			setTimeout(function(){
-				var dvr_html = '<div class="row">';
+				var dvr_html = '<h3>XBOX DVR CONTENT</h3><div class="row">';
 		    $.get('https://agile-mesa-1935.herokuapp.com/xbox_dvr/videos', {gamertag: gamertag}, function(resp){
 	        $.each(resp.videos, function(index, vid){
 	          dvr_html += [
