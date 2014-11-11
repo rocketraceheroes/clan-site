@@ -13,7 +13,7 @@ favorite_games: Halo Reach, Bioshock Infinite
 favorite_stat: 4,700 assassinations in Halo: Reach
 ---
 ####Play Style
-Assassinations and assists... lots and lots of assists!
+Assassinations and assists... lots and lots of assists\!
 
 ####Quote
 "A single dream is more powerful than a thousand realities." &mdash; J. R. R. Tolkein
