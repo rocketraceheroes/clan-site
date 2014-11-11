@@ -14,12 +14,15 @@ layout: default
             <div id="member-gamertag" style="display:none;">{{ page.title }}</div>
             <div class="hline"></div>
             <p><b>Member Since:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Quote:</b> N/A</p>
+            <p><b>Quote:</b> {{quote}}</p>
+            <p><b>Favorite Games:</b> {{favorite_games}}</p>
+            <p><b>Favorite Statistic:</b> {{favorite_stat}}</p>
+            <p><b>Play Style:</b> {{play_style}}</p>
         </div>
         <div class="col-lg-4 col-lg-offset-1">
-
-            {{ content }}
-
+            <h4>About</h4>
+            <div class="hline"></div>
+            <p>{{about}}</p>
         </div>
     </div><!--/row -->
 </div><!--/container -->
