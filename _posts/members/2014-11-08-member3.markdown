@@ -8,7 +8,7 @@ img: member3.png
 carousel:
 - member3.png
 favorite_games: Halo Reach, Bioshock Infinite
-favorite_stat: Completed Halo 4 solo LASO (Legendary, All Skulls On); 4,700 assassinations in Halo Reach
+favorite_stat: Completed Halo 4 Solo LASO (Legendary, All Skulls On); 4,700 assassinations in Halo Reach
 ---
 ####Play Style
 Assassinations and assists... lots and lots of assists\!
