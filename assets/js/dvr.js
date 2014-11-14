@@ -9,7 +9,7 @@ $(function(){
 	          dvr_html += [
 	          	'<div class="col-xs-6 col-md-4">',
 	          	'  <div class="thumbnail">',
-	          	'    <a href="#" data-uri="'+vid.ClipUri+'" class="vid-modal-trigger" title="Click to Watch">',
+	          	'    <a href="#" data-uri="'+vid.ClipUri+'" data-id="'+vid.Id+'" class="vid-modal-trigger" title="Click to Watch">',
 	          	'      <img src="'+vid.Thumbnail+'" alt="...">',
 	          	'    </a>',
 	          	'    <div class="caption">',
@@ -25,7 +25,8 @@ $(function(){
 
 			$('div.dvr').on('click', 'a.vid-modal-trigger', function(e){
 				e.preventDefault();
-				$('#videoModal').find('div.modal-body').html('<video controls="" autoplay="" name="media" style="width:100%;"><source src="'+$(this).data('uri')+'" type="video/mp4"></video>');
+				$('#videoModal').find('div.modal-body').html('<video controls="" autoplay="" name="media" style="width:100%;"><source src="'+$(this).data('uri')+
+					'" type="video/mp4"></video><br><input type="text" value="https://agile-mesa-1935.herokuapp.com/xbox_dvr/get_video?gamertag='+gamertag+'&vid='+$(this).data('id')+'"/>');
 				$('#videoModal').modal({keyboard: false});
 			});
 		}
