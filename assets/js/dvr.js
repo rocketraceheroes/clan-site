@@ -26,7 +26,7 @@ $(function(){
 			$('div.dvr').on('click', 'a.vid-modal-trigger', function(e){
 				e.preventDefault();
 				$('#videoModal').find('div.modal-body').html('<video controls="" autoplay="" name="media" style="width:100%;"><source src="'+$(this).data('uri')+
-					'" type="video/mp4"></video><br><input type="text" value="https://agile-mesa-1935.herokuapp.com/xbox_dvr/get_video?gamertag='+gamertag+'&vid='+$(this).data('id')+'"/>');
+					'" type="video/mp4"></video><br>Copy Me! <input type="text" value="https://agile-mesa-1935.herokuapp.com/xbox_dvr/get_video?gamertag='+gamertag+'&vid='+$(this).data('id')+'" style="width:100%"/>');
 				$('#videoModal').modal({keyboard: false});
 			});
 		}
