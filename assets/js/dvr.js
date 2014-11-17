@@ -4,7 +4,7 @@ $(function(){
 		if (gamertag.length){
 			setTimeout(function(){
 				var dvr_html = '<h3>XBOX DVR CONTENT</h3>';
-		    $.get('https://www.xboxio.com/xbox_dvr/videos', {gamertag: gamertag}, function(resp){
+		    $.get('http://www.xboxio.com/xbox_dvr/videos', {gamertag: gamertag}, function(resp){
 	        $.each(resp.videos, function(index, vid){
 	          dvr_html += [
 	          	'<div class="col-xs-6 col-md-4">',
