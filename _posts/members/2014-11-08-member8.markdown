@@ -7,7 +7,7 @@ categories:
 img: member8.png
 carousel:
 - member8.png
-favorite_games: Halo 2, Batman: Arkham City, Titanfall, Final Fantasy 7
+favorite_games: Halo 2, Batman Arkham City, Titanfall, Final Fantasy 7
 favorite_stat: 12
 ---
 ####Play Style
