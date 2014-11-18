@@ -7,11 +7,13 @@ categories:
 img: member8.png
 carousel:
 - member8.png
-client: Wonder Corp.
-website: http://blacktie.co
+favorite_games: Halo 2, Batman: Arkham City, Titanfall, Final Fantasy 7
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####Play Style
+Run and gun; everything for the win.
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+####Quote
+"I write one page of masterpiece to ninety-one pages of s#%&.  I try to put the s#%& in the wastebasket."&mdash;Earnest Hemmingway
+
+####About
+I've been addicted to video games since the original Super Mario Brothers.  I have been on Xbox Live since Halo 2 and the only reason I keep getting an Xbox is for the Halo franchise.
