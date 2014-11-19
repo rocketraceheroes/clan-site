@@ -1,7 +1,7 @@
 ---
 layout: member
 title:  "FURRY CHIEF"
-date:   2003-04-20 16:54:46
+date:   2004-04-20 16:54:46
 categories:
 - members
 img: member5.png
