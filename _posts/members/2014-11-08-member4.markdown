@@ -1,7 +1,7 @@
 ---
 layout: member
 title:  "TH3WH1T3R4BB1T"
-date:   Bringing 2004-04-21 16:54:46
+date:   Bringing the 2004-04-21 16:54:46
 categories:
 - members
 img: member4.png
