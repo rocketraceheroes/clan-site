@@ -206,20 +206,19 @@ a:focus {
 	SITE WRAPS
 ################################################################# */
 
-#headerwrap {
-	background-color: {{ site.colors.primary }};
+#twrap2 {
 	min-height: 275px;
 	padding-top: 90px;
 	padding-bottom: 0px;
 	text-align: center;
 }
 
-#headerwrap h3, h5 {
+#twrap2 h3, h5 {
 	color: white;
 	font-weight: 400;
 }
 
-#headerwrap h1 {
+#twrap2 h1 {
 	color: white;
 	margin-bottom: 25px;
 }
