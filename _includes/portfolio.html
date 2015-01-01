@@ -8,10 +8,10 @@
                     <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
                         <div class="he-view">
-                            <div class="bg a0" data-animate="fadeIn">
+                            <a href="{{  member.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp">
+                                <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">{{ member.title }}</h3>
-                                <a data-rel="prettyPhoto" href="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="{{  member.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                            </a>
                             </div><!-- he bg -->
                         </div><!-- he view -->		
                     </div><!-- he wrap -->
