@@ -8,9 +8,9 @@
                     <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
                         <div class="he-view">
-                                <div class="bg a0" data-animate="fadeIn">
+                                <a href="{{  member.url | prepend: site.baseurl }}" class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">{{ member.title }}</h3>
-                                </div><!-- he bg -->
+                                </a><!-- he bg -->
                         </div><!-- he view -->		
                     </div><!-- he wrap -->
                 </div><!-- end col-12 -->
