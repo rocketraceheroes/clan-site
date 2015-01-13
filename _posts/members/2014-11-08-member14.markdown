@@ -5,7 +5,7 @@ date:   2014-04-15 16:54:46
 author: Marcel Newman
 categories:
 - members
-img: member_13.png
+img: member_14.png
 thumb: thumb02.jpg
 carousel:
 - member_12.png
