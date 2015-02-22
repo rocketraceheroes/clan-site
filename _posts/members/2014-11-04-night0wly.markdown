@@ -1,6 +1,6 @@
 ---
 layout: member
-title:  "Night Owly"
+title:  "Night 0wly"
 date:   2014-04-15 16:54:46
 author: Marcel Newman
 categories:
