@@ -4,16 +4,16 @@ $(function(){
 		if (gamertag.length){
 			setTimeout(function(){
 				var dvr_html = '<h3>XBOX DVR CONTENT</h3>';
-		    $.get('http://www.xboxio.com/xbox_dvr/videos', {gamertag: gamertag}, function(resp){
+		    $.get('https://xboxdvr.com/gamer/'+gamertag, function(resp){
 	        $.each(resp.videos, function(index, vid){
 	          dvr_html += [
 	          	'<div class="col-xs-6 col-md-4">',
 	          	'  <div class="thumbnail">',
-	          	'    <a href="#" data-uri="'+vid.ClipUri+'" data-id="'+vid.Id+'" class="vid-modal-trigger" title="Click to Watch">',
-	          	'      <img src="'+vid.Thumbnail+'" alt="...">',
+	          	'    <a href="#" data-uri="'+vid.source+'" data-id="'+vid.id+'" class="vid-modal-trigger" title="Click to Watch">',
+	          	'      <img src="'+vid.image_url+'" alt="...">',
 	          	'    </a>',
 	          	'    <div class="caption">',
-	          	'      <p><b>Game:</b> '+vid.TitleName+' - '+vid.UploadTime+'</p>',
+	          	'      <p><b>Game:</b> '+vid.game+' - '+vid.created_at+'</p>',
 	          	'    </div>',
 	          	'  </div>',
 	          	'</div>'
