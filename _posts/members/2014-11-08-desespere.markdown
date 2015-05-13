@@ -2,18 +2,19 @@
 layout: member
 title:  "Desespere"
 date:   2014-04-15 16:54:46
-author: Marcel Newman
 categories:
 - members
 img: member_14.png
-thumb: thumb02.jpg
 carousel:
-- member_12.png
-client: Wonder Corp.
-website: http://blacktie.co
+- member_14.png
+favorite_games: Halo Reach, Bioshock Infinite
+favorite_stat: Completed Halo 4 Solo LASO (Legendary, All Skulls On); 4,700 assassinations in Halo Reach
 ---
-####YOUR PROJECT NAME
-Tufo put something here
+####Play Style
+Assassinations and assists... lots and lots of assists\!
 
-####Our Proposal
-Tufo put something here
+####Quote
+"A single dream is more powerful than a thousand realities." &mdash; J. R. R. Tolkein
+
+####About
+I picked up gaming in college, a little on the late side. I joined Rocket Race Heroes in 2011 and I have been enjoying every moment. This group took me in as a noob and taught me both how to play and how to have fun playing.
