@@ -1,7 +1,7 @@
 ---
 layout: member
 title:  "DARTH TELLY"
-date:   2013-04-15 16:54:46
+date:   2014-04-15 16:54:46
 author: Marcel Newman
 categories:
 - members
@@ -9,14 +9,14 @@ img: member_11.png
 thumb: thumb02.jpg
 carousel:
 - member_11.png
-favorite_games: Destiny, DOTA2, Hearthstone, Fallout
-favorite_stat: A positive K/D
+favorite_games: Whatever CARDAMOM PODS is playing.
+favorite_stat: .02 K/D against Tufo
 ---
 ####Play Style
-Strategic defense, Min/Max, theorycraft, support
+Sherpa stuff.
 
 ####Quote
-“The only way to get smarter is by playing a smarter opponent.” &mdash; Fundamentals of Chess 1883
+"How is it possible to get marked for negation 27 times in 2 minutes?" &mdash; Darth Telly
 
 ####About
-Casual gamer from the Nintendo days until World of Warcraft. I was in an active raid team and eventual Arena team before moving to competitive Magic: The Gathering. A few qualifiers and multiple control decks later I put the cards away anticipating a son. Moved to Hearthstone where I reached Legend rank. Destiny came and brought me back to console gaming and FPS in general. Punching the darkness away one dreg at a time.
+Super outgoing, social butterfly, life of the party. HALO 1 ALL DAY, SON! 
