@@ -7,14 +7,14 @@ categories:
 img: member_14.png
 carousel:
 - member_14.png
-favorite_games: Halo Reach, Bioshock Infinite
-favorite_stat: Completed Halo 4 Solo LASO (Legendary, All Skulls On); 4,700 assassinations in Halo Reach
+favorite_games: Destiny, DOTA2, Hearthstone, Fallout
+favorite_stat: A positive K/D
 ---
 ####Play Style
-Assassinations and assists... lots and lots of assists\!
+Strategic defense, Min/Max, theorycraft, support
 
 ####Quote
-"A single dream is more powerful than a thousand realities." &mdash; J. R. R. Tolkein
+“The only way to get smarter is by playing a smarter opponent.” &mdash; Fundamentals of Chess 1883
 
 ####About
-I picked up gaming in college, a little on the late side. I joined Rocket Race Heroes in 2011 and I have been enjoying every moment. This group took me in as a noob and taught me both how to play and how to have fun playing.
+Casual gamer from the Nintendo days until World of Warcraft. I was in an active raid team and eventual Arena team before moving to competitive Magic: The Gathering. A few qualifiers and multiple control decks later I put the cards away anticipating a son. Moved to Hearthstone where I reached Legend rank. Destiny came and brought me back to console gaming and FPS in general. Punching the darkness away one dreg at a time.
