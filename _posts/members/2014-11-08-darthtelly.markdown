@@ -9,11 +9,14 @@ img: member_11.png
 thumb: thumb02.jpg
 carousel:
 - member_11.png
-client: Wonder Corp.
-website: http://blacktie.co
+favorite_games: Destiny, DOTA2, Hearthstone, Fallout
+favorite_stat: A positive K/D
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####Play Style
+Strategic defense, Min/Max, theorycraft, support
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+####Quote
+“The only way to get smarter is by playing a smarter opponent.” &mdash; Fundamentals of Chess 1883
+
+####About
+Casual gamer from the Nintendo days until World of Warcraft. I was in an active raid team and eventual Arena team before moving to competitive Magic: The Gathering. A few qualifiers and multiple control decks later I put the cards away anticipating a son. Moved to Hearthstone where I reached Legend rank. Destiny came and brought me back to console gaming and FPS in general. Punching the darkness away one dreg at a time.
