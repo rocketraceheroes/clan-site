@@ -9,11 +9,14 @@ img: member_15.png
 thumb: thumb02.jpg
 carousel:
 - member_15.png
-client: Wonder Corp.
-website: http://blacktie.co
+favorite_games: Halo and Destiny have taken up the majority of my gaming time. 
+favorite_stat: Pretty proud of my positive K/D in all things Grifball!
 ---
-####YOUR PROJECT NAME
-Tufo put something here
+####Play Style
+I'm very good at killing things with a hammer! Other than that, I kill stuff when I can, however I can. 
 
-####Our Proposal
-Tufo put something here
+####Quote
+“Forget past mistakes and forget failures. Forget everything except what you are going to do now and do it." &mdash; William Durant 
+
+####About
+I started gaming when I was young: running and jumping as a wee little Mario. Halo 3 is when my real obsession started; I love me some MC! I've worked in the Community Management/Public Relations field for many different Halo communities since then. Playing competitive Grifball has always been a highlight of my gaming time. I love smashing faces in with my hammer! Now with Destiny, I've joined the Rocket Race Heroes, a great group of people and I've never enjoyed gaming more! Bring on the good memories! 
