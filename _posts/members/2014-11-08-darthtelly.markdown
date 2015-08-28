@@ -20,5 +20,3 @@ Sherpa stuff.
 
 ####About
 Super outgoing, social butterfly, life of the party. HALO 1 ALL DAY, SON!
-
-<iframe frameborder=0 webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency scale="tofit" width="990" height="220" style="overflow-x:hidden;max-width:100%" src="http://xboxdvr.com/most_watched/embed"></iframe>
