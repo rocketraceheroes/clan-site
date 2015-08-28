@@ -19,4 +19,6 @@ Sherpa stuff.
 "How is it possible to get marked for negation 27 times in 2 minutes?" &mdash; Darth Telly
 
 ####About
-Super outgoing, social butterfly, life of the party. HALO 1 ALL DAY, SON! 
+Super outgoing, social butterfly, life of the party. HALO 1 ALL DAY, SON!
+
+<iframe frameborder=0 webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency scale="tofit" width="990" height="220" style="overflow-x:hidden;max-width:100%" src="http://xboxdvr.com/most_watched/embed"></iframe>
