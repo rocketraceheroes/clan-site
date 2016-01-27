@@ -6,7 +6,7 @@
             {% for member in sorted_members limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
-                        <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                        <img src="{{ member.thumb }}" alt="">
                         <a href="{{  member.url | prepend: site.baseurl }}" class="he-view">
                                 <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">{{ member.title }}</h3>
