@@ -5,7 +5,7 @@ date:   2004-04-25 16:54:46
 categories:
 - members
 img: member1.png
-thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANoggpcUKgRISpYOj7raadbgY1hq2Jg6VM8m0DnBQyPZrt4GcYz.C_mTOWdz7mOUSXOXD8M4WM4kz8.auZER85GddjG7OFaEZroSAyVXvsshUWvw--&format=png&h=640w=640
+thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANoggpcUKgRISpYOj7raadbgY1hq2Jg6VM8m0DnBQyPZrt4GcYz.C_mTOWdz7mOUSXOXD8M4WM4kz8.auZER85GddjG7OFaEZroSAyVXvsshUWvw--&format=png&h=640&w=640
 carousel:
 - member1.png
 favorite_games: Halo 2 and 3
