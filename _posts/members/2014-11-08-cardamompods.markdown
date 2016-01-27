@@ -5,6 +5,7 @@ date:   2011-04-22 16:54:46
 categories:
 - members
 img: member3.png
+thumb: http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBrrCmIEEXHC9UNrdJ6P7KI4AAOijCgOA3.jozKovAH9_QkP7dJCLeksCV8bzmWtRJq7ujRDIAlNpzrG9CcDvhU&format=png&h=640&w=640
 carousel:
 - member3.png
 favorite_games: Halo Reach, Bioshock Infinite

@@ -5,6 +5,7 @@ date:   2014-04-17 16:54:46
 categories:
 - members
 img: member8.png
+thumb: http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBrrCmIEEXHC9UNrdJ6P7KIU5Sj_1hNZHeOVzbgzVj2goqbT0OGQ6mfaT5K_Kf7Z77p4tHORy6pR4i_gm2lczma&format=png&h=640&w=640
 carousel:
 - member8.png
 favorite_games: Halo 2, Batman Arkham City, Titanfall, Final Fantasy 7

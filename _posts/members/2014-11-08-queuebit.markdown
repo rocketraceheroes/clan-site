@@ -5,6 +5,7 @@ date:   2014-04-22 16:54:46
 categories:
 - members
 img: member2.png
+thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANogjnONBUBKJftq4ZCotujoIhsNzxPcRNVh3ceN7o2tXDV3wZ9bs78BtbbJElITleXN.MF7Nqw4Fow.vrFP8jfME83T_lql4hZgYwnLh2x2Tb.rYkI2b6KIZDbeO.WBCd_00-&format=png&h=640&w=640
 carousel:
 - member2.png
 favorite_games: Braid, Portal, Small World, Halo

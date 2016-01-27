@@ -5,6 +5,7 @@ date:   2014-04-15 16:54:46
 categories:
 - members
 img: member_14.png
+thumb: http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBrrCmIEEXHC9UNrdJ6P7KIwuPiuIs6TLDV4WsQAGzSwj1SVsxwN_kh0nNFxyFSJlhgJqMjjT0SmrMBvYy2NnCj&format=png&h=640&w=640
 carousel:
 - member_14.png
 favorite_games: Destiny, DOTA2, Hearthstone, Fallout

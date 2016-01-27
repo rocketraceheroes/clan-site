@@ -6,7 +6,7 @@ author: Marcel Newman
 categories:
 - members
 img: member_11.png
-thumb: thumb02.jpg
+thumb: http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBrrCmIEEXHC9UNrdJ6P7KIm2RQQtfSX9jMSatOYowOzFGrmXRC0uhY67.hdTPTY6qmHE5qXdhV4CSdn79W3yys&format=png&h=640&w=640
 carousel:
 - member_11.png
 favorite_games: Whatever CARDAMOM PODS is playing.

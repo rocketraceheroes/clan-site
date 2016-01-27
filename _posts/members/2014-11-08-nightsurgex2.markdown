@@ -5,6 +5,7 @@ date:   2014-04-14 16:54:46
 categories:
 - members
 img: member_10.png
+thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANoghU_8COFL.OkaDupDsnr_EFxUgUG52LoJ4fyiXa1FnfOhRc3C4CEM4PtMmVuO6IgNfODSHHtwYvp.Y6ipXfDefJzhuuWmXpBSbVKSvJdMzCx8lGj7cWXYb941LApBiX6Ds-&format=png&h=640&w=640
 carousel:
 - member_10.png
 favorite_games: Halo, Uncharted, Mass Effect, Call of Duty Modern Warfare Series

@@ -5,6 +5,7 @@ date:   2004-04-21 16:54:46
 categories:
 - members
 img: member4.png
+thumb: http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBrrCmIEEXHC9UNrdJ6P7KIoIeJ1sl4QgwrJRGcdRHOCkWs1_K8jOYWnjFnXGGVxqnpS78DEiDxVTFsOsS3dDUW&format=png&h=640&w=640
 carousel:
 - member4.png
 favorite_games: Halo 2 and 4

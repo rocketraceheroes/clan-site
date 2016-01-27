@@ -5,6 +5,7 @@ date:   2007-04-18 16:54:46
 categories:
 - members
 img: member7.png
+thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANoghyKXbelVIbHke7klb2WlvW2ol_UoQ83Rc19Z6cSHIayNbF1xAf47_XafllIBTY22ChMua.NlDzNYxklN634wQS2Lk_704KjiZtBO6R6jobFixqW1_V_xQg3veRqC65V6Y-&format=png&h=640&w=640
 carousel:
 - member7.png
 favorite_games: Red Dead Redemption, The Last of Us, Mass Effect 2, Skyrim, Bioshock, Uncharted 2

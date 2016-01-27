@@ -6,7 +6,7 @@ author: Marcel Newman
 categories:
 - members
 img: member_13.png
-thumb: thumb02.jpg
+thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANogj0xb1Fc7AwUUxZjt9d6y.pBYpx6K_FnOYbGzHOZPokEt6rtooH5q2GjCDp7zww6Ti2rj_PKg6bqUX_B.aARFpQO.IHPAqHgO.EWwT2LjI4QA--&format=png&h=640&w=640
 carousel:
 - member_12.png
 client: Wonder Corp.
