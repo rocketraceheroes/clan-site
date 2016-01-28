@@ -13,10 +13,10 @@ favorite_games: TUFO DO THIS
 favorite_stat: TUFO DO THIS
 ---
 ####Play Style
-TUFO DO THIS
+Objective, Support, Salty
 
 ####Quote
-“TUFO DO THIS" &mdash; Tufo
+"That's what she said"&mdash; Michael Scott
 
 ####About
-TUFO DO THIS
+Husband and Father of 2. I'm analytical. I think about thinking about things. I am horrible at small talk, but if you want to discuss sports, cars, or science at the  nerdiest of levels.....I am your man.
