@@ -1,7 +1,7 @@
 ---
 layout: member
 title:  "XxSettleDownxX"
-date:   2014-04-16 16:54:46
+date:   2016-01-16 16:54:46
 author: Marcel Newman
 categories:
 - members
@@ -10,7 +10,7 @@ thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLf
 carousel:
 - member_16.png
 favorite_games: TUFO DO THIS
-favorite_stat: TUFO DO THIS
+favorite_stat: Had a .3 K/D in my first 6 months of my first FPS to well over 1 in the next 6 months.
 ---
 ####Play Style
 Objective, Support, Salty
