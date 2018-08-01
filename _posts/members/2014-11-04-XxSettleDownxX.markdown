@@ -6,7 +6,7 @@ author: Marcel Newman
 categories:
 - members
 img: member_16.png
-thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANogik1LfZFcXhHk4vI6W_XCivGch2sGgu5ULT8pd7MXGpUzQ31l2WJVWCd9B4Dr6OeIaRuy23rbKFVODI17fLkdXCR.NZblLwdkRtFhNEc4LFb4_GxolavG32Emy2YELr0zE-&format=png&h=640&w=640
+thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANoghs1LDQIMMSWO.ScREpnSj4GySByxDGl3aF5EzgkFygeEHOnZufxp7wFvPqYWioe3GVgIM9XSFIPuFuAFmASSafCRmbw.WX7vgwztopJEC.eBbqwgjv5LQbh9M0fmQmm4M-&format=png&h=640&w=640
 carousel:
 - member_16.png
 favorite_games: Destiny, Last of Us, Fallout, GTA
