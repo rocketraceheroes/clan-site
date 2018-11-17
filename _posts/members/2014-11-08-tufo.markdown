@@ -1,21 +1,21 @@
 ---
 layout: member
-title:  "TUFO"
+title:  "Tufo"
 date:   2004-04-25 16:54:46
 categories:
 - members
-img: member1.png
-thumb: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANoggpcUKgRISpYOj7raadbgY1hq2Jg6VM8m0DnBQyPZrt4GcYz.C_mTOWdz7mOUSXOXD8M4WM4kz8.auZER85GddjG7OFaEZroSAyVXvsshUWvw--&format=png&h=640&w=640
+img: http://images-eds.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW_ES.ojiJijNBGRVUbTnZKsoCCCkjlsEJrrMqDkYqs3Ma6VSz29Sz1oARQqXQmfMWCNbxsfLFYMX9vvWaVl7o6V9hYPY_jlPEbhZ7jdn43Q6E1.kIwkDxVPclhm8WIaj6sofsyGZKiq2iN71LKvndNU-&format=png
+
 carousel:
-- member1.png
+- tufo.png
 favorite_games: Halo 2 and 3
 favorite_stat: Over 14,000 Wheelman medals in Halo 3 multiplayer.
 ---
-####Play Style
+#### Play Style
 Team vehicle specialist. Role player. Callouts. Assists. The greater good.
 
-####Quote
+#### Quote
 "The universe is big; its vast and complicated and ridiculous, and sometimes, very rarely, impossible things just happen, and we call them miracles." &mdash; The Doctor
 
-####About
+#### About
 I've been an avid gamer since I could hold a controller and a fanatic of the Halo franchise since it's inception. As a founding member of the Rocket Race Heroes, I have enjoyed gaming with the group for a decade, through many stages of life: college, grad school, parenthood, and a career.

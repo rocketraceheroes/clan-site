@@ -9,9 +9,9 @@
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-            {% for img in page.thumb %}
+            {% for img in page.img %}
                 <div class="item active">
-                    <img src="{{ img }}" alt="">
+                    <img src="{{ img | append: '&h=640&w=640' }}" alt="">
                 </div>
             {% endfor %}
         </div>
