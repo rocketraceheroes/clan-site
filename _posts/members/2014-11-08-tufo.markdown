@@ -8,14 +8,14 @@ img: http://images-eds.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7
 
 carousel:
 - tufo.png
-favorite_games: Halo 2 and 3
+favorite_games: Halo 3, The Last of Us, Red Dead Redemption, Destiny
 favorite_stat: Over 14,000 Wheelman medals in Halo 3 multiplayer.
 ---
 #### Play Style
-Team vehicle specialist. Role player. Callouts. Assists. The greater good.
+Humorist. Team player. Strategy over aggression. Callouts. Assists. The greater good.
 
 #### Quote
-"The universe is big; its vast and complicated and ridiculous, and sometimes, very rarely, impossible things just happen, and we call them miracles." &mdash; The Doctor
+"Sometimes you have to watch somebody love something before you can love it yourself. It is as if they are showing you the way." &mdash; Donald Miller, Blue Like Jazz
 
 #### About
-I've been an avid gamer since I could hold a controller and a fanatic of the Halo franchise since it's inception. As a founding member of the Rocket Race Heroes, I have enjoyed gaming with the group for a decade, through many stages of life: college, grad school, parenthood, and a career.
+ I’ve been an avid gamer since I could hold a controller; I love building community. As a founding member of the Rocket Race Heroes, I have enjoyed gaming with the group for 15 years, through many stages of life: college, grad school, parenthood, and a career.
