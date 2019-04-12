@@ -8,7 +8,7 @@ img: http://images-eds.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW8ke8ralOdP9BG
 
 carousel:
 - pocket_dave.png
-favorite_games: Red Dead Redemption, The Last of Us, Mass Effect 2, Skyrim, Bioshock, Uncharted 2
+favorite_games: Red Dead Redemption, The Last of Us, Mass Effect 2, Skyrim, Bioshock, Uncharted 2, Dungeons and Dragons
 favorite_stat: Over 80K achievement score. 2.2 K/D in Titanfall. Killed every pigeon in GTA IV.
 ---
 #### Play Style
