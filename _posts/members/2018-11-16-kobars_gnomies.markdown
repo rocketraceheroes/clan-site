@@ -8,7 +8,7 @@ img: http://images-eds.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW3apWESZjav65Y
 
 carousel:
 - kobars_gnomies.png
-favorite_games: 'The Legend of Zelda: Wind Waker HD, Halo: 2, Fallout 3, Super Mario Bros. 3'
+favorite_games: 'The Legend of Zelda: Wind Waker HD, Halo: 2, Fallout 3, Super Mario Bros. 3, Overcooked 2'
 favorite_stat: Unlocked all Skyrim achievements within 2 months of its release
 ---
 #### Play Style
